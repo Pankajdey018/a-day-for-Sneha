@@ -1,0 +1,1 @@
+Add Sneha's photos here as sneha-1.jpg, sneha-2.jpg, and sneha-3.jpg. The React gallery already references these filenames.
